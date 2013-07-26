@@ -3,32 +3,48 @@ Pre rodinný dom: II.Kolónia 48, Martin-Priekopa
 
 ## [TECHNICKÁ SPRÁVA](http://www.el-revizie.sk/prj/technickasprava.htm) ##
 
-PRÍLOHY:
-
-* [Protokol o určení vonkajších vplyvov](http://www.el-revizie.sk/prj/protokol.htm)
-* Výsledky výpočtu skratov a ochrana pred skratmi
-* [Zoznam miestností v objekte a vonkajších miest](http://www.el-revizie.sk/prj/miestnosti.htm)
-* [Zoznam použitého materálu](http://www.el-revizie.sk/prj/material.htm)
-* [Zoznam použitých noriem, vyhlášok a zákonov](http://www.el-revizie.sk/prj/normy.htm)
-
 
 VYSVETĽUJÚCE SCHÉMY:
 
-* [Celková situačná mapa](http://www.el-revizie.sk/prj/img/01.png)
-* Prehľadová schéma siete 3PEN AC 400/230V 50Hz TN-C-S
-* Obvodová schéma vypínania svietidiel: [schodiská](http://www.el-revizie.sk/prj/img/03a.png), [obývacia izba](http://www.el-revizie.sk/prj/img/03b.png) a [chodby](http://www.el-revizie.sk/prj/img/03c.png)
-* [Obvodová schéma uzemnenia a ochranného pospájania](http://www.el-revizie.sk/prj/img/04.png)
-* Obvodová schéma podružného rozvádzača
+1. [Celková situačná mapa a polohopisná trasa prípojky NN](http://www.el-revizie.sk/prj/img/01.png)
+2. [Prehľadová schéma uzemnenia a ochranného pospájania](http://www.el-revizie.sk/prj/img/02.png)
+3. [Prehľadová schéma uzemnenia a ochranného pospájania](http://www.el-revizie.sk/prj/img/03.png)
 
 
 VYKONÁVACIE SCHÉMY:
 
-* Situačná schéma uzemňovacej sústavy [pôdorysné zobrazenie](http://www.el-revizie.sk/prj/img/06a.png) a [vertikálne zobrazenie](http://www.el-revizie.sk/prj/img/06b.png)
-* [Polohopisné trasy sietí](http://www.el-revizie.sk/prj/img/07.png) 3PEN AC 400V 50Hz TN-C-S a 3PEN AC 230V 50Hz TN-S vo vonkajšom priestore.
-* [Inštalačná schéma prízemia](http://www.el-revizie.sk/prj/img/08.png)
-* [Inštalačná schéma poschodia](http://www.el-revizie.sk/prj/img/09.png)
-* [Inštalačná schéma suterénu](http://www.el-revizie.sk/prj/img/10.png)
-* [Inštalačná schéma garáže](http://www.el-revizie.sk/prj/img/11.png)
-* [Zapojovacia schéma elektromerového rozvádzača](http://www.el-revizie.sk/prj/img/12.png)
-* Usporiadanie prístrojov v podružnom rozvádzači
-* Situačná schéma bleskozvodnej sústavy [pôdorysné zobrazenie](http://www.el-revizie.sk/prj/img/14a.png) a [vertikálne zobrazenie](http://www.el-revizie.sk/prj/img/14b.png)
+4. Situačná schéma uzemnenia a ochranného pospájania:
+  * [uzemnenie a ochranné pospájanie - suterén](http://www.el-revizie.sk/prj/img/04a.png)
+	* [doplnkové ochranné pospájanie - poschodie](http://www.el-revizie.sk/prj/img/04b.png)
+	* [vertikálne zobrazenie](http://www.el-revizie.sk/prj/img/04c.png)
+5. [Situačná schéma prízemia](http://www.el-revizie.sk/prj/img/05.png)
+6. [Situačná schéma poschodia](http://www.el-revizie.sk/prj/img/06.png)
+7. [Situačná schéma suterénu](http://www.el-revizie.sk/prj/img/06.png)
+8. [Situačná schéma garáže](http://www.el-revizie.sk/prj/img/07.png)
+9. Situačná schéma bleskozvodnej sústavy:
+	* [pôdorysné zobrazenie](http://www.el-revizie.sk/prj/img/09a.png)
+	* [vertikálne zobrazenie](http://www.el-revizie.sk/prj/img/09b.png)
+10. [Situačná schéma pre slaboprúdový rozvod](http://www.el-revizie.sk/prj/img/10.png)
+11. [Situačná schéma pre domový zvonček](http://www.el-revizie.sk/prj/img/11.png)
+12. [Svorkovnicová schéma elektromerového rozvádzača](http://www.el-revizie.sk/prj/img/12.png)
+13. [Svorkovnicová schéma hlavnej uzemňovacej svorky](http://www.el-revizie.sk/prj/img/13.png)
+14. [Zapojovacia schéma hlavného rozvádzača](http://www.el-revizie.sk/prj/img/14.png)
+15. [Zapojovacia schéma podružného rozvádzača](http://www.el-revizie.sk/prj/img/15.png)
+16. [Zapojovacia schéma vypínania svietidiel](http://www.el-revizie.sk/prj/img/16.png)
+17. [Polohopisná trasa hlavných káblov](http://www.el-revizie.sk/prj/img/17.png)
+
+
+
+PRÍLOHY:
+
+- A. [Protokol o určení vonkajších vplyvov](http://www.el-revizie.sk/prj/protokol.htm)
+  * [Zoznam miestností v objekte](http://www.el-revizie.sk/prj/miestnosti.htm)
+- B. [Zoznam elektrospotrebičov](http://www.el-revizie.sk/prj/spotrebice.htm)
+- C. [Skratové prúdy a selektívita istiacich prvkov](http://www.el-revizie.sk/prj/selektivita.htm)
+- D. [Impedančné slučky](http://www.el-revizie.sk/prj/img/slucky.png)
+- E. [Zoznam projektovaného materiálu](http://www.el-revizie.sk/prj/vypis.htm)
+- F. [Zoznam použitého materálu](http://www.el-revizie.sk/prj/material.htm)
+- G. [Výpočet prijateľného rizika pred účinkami atmosférických výbojov](http://www.el-revizie.sk/prj/LPS.htm)
+- H. [Rozloženie prístrojov v rozvádzačoch](http://www.el-revizie.sk/prj/pristroje.htm)
+- I. [Prevádzkové pokyny pri užívaní elektrických zariadení](http://www.el-revizie.sk/prj/pokyny.htm)
+- J. [Zoznam použitých noriem, vyhlášok a zákonov](http://www.el-revizie.sk/prj/normy.htm)
